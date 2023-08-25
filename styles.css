@@ -1,3 +1,8 @@
-.centerX {
-    translateX(-50%);
+.center-x {
+    transform: translateX(-50%);
+}
+
+/* Additional examples */
+.center-y {
+    transform: translateY(-50%);
 }
