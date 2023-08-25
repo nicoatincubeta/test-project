@@ -6,3 +6,7 @@
 .center-y {
     transform: translateY(-50%);
 }
+
+.outline {
+    outline: 1px dashed red;
+}
